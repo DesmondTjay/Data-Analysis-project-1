@@ -12,7 +12,7 @@ GROUP BY
     Product_Category
 ORDER BY 
     Total_Sales DESC
-    --ANSWER-- Technology with total Sales od 5,984,248.18
+    --ANSWER-- Technology with total Sales of 5,984,248.18
 
 -- 2. Top 3 and Bottom 3 Regions by Sales
 -- Top 3
